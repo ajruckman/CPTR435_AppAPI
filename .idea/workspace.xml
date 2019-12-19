@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e4129cef-9fc6-4c0c-b593-6f2663e8e633" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="temp_readings@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="temp_readings@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ExecutionTargetDialog">
+    <checked>
+      <node key="5003baa7-589c-4d2f-a6b3-f25f9de576e2" />
+    </checked>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="S:/go/goroot" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1RzDc0Ao09VFIDd82aVdMrVXdCw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="postgresql" />
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="go.vgo" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\My Drive\dev\golang\cptr435\api\web" />
+      <recent name="G:\My Drive\dev\golang\cptr435\api\asdf" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="go build web.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="api" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/cmd/web/web.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build web.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:temp_readings@10.3.1.20" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:temp_readings@10.3.1.20" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@39d99a38" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:temp_readings@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:temp_readings@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@29eed272" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="660" y="239" key="#GOROOT" timestamp="1576761093064">
+      <screen x="0" y="0" width="2133" height="1160" />
+    </state>
+    <state x="660" y="239" key="#GOROOT/0.0.2133.1160@0.0.2133.1160" timestamp="1576761093064" />
+    <state x="361" y="507" key="#Go_Modules_(vgo)" timestamp="1574812788175">
+      <screen x="0" y="0" width="3072" height="1688" />
+    </state>
+    <state x="361" y="507" key="#Go_Modules_(vgo)/0.0.3072.1688@0.0.3072.1688" timestamp="1574812788175" />
+    <state x="660" y="239" key="#SQL_Dialects" timestamp="1573083890528">
+      <screen x="0" y="0" width="2133" height="1160" />
+    </state>
+    <state x="660" y="239" key="#SQL_Dialects/0.0.2133.1160@0.0.2133.1160" timestamp="1573083890528" />
+    <state x="660" y="239" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576762031652">
+      <screen x="0" y="0" width="2133" height="1160" />
+    </state>
+    <state x="660" y="239" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2133.1160@0.0.2133.1160" timestamp="1576762031652" />
+    <state x="951" y="348" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.3072.1688@0.0.3072.1688" timestamp="1574813157381" />
+    <state x="517" y="652" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1574813101410">
+      <screen x="0" y="0" width="3072" height="1688" />
+    </state>
+    <state x="517" y="652" key="#com.intellij.fileTypes.FileTypeChooser/0.0.3072.1688@0.0.3072.1688" timestamp="1574813101410" />
+    <state x="868" y="283" key="ExecutionTargetDialog" timestamp="1576762043518">
+      <screen x="0" y="0" width="2133" height="1160" />
+    </state>
+    <state x="868" y="283" key="ExecutionTargetDialog/0.0.2133.1160@0.0.2133.1160" timestamp="1576762043518" />
+    <state x="1250" y="412" key="ExecutionTargetDialog/0.0.3072.1688@0.0.3072.1688" timestamp="1574813166656" />
+    <state x="1221" y="487" key="FileChooserDialogImpl" timestamp="1575051562147">
+      <screen x="0" y="0" width="3072" height="1688" />
+    </state>
+    <state x="848" y="335" key="FileChooserDialogImpl/0.0.2133.1160@0.0.2133.1160" timestamp="1574082688587" />
+    <state x="1221" y="487" key="FileChooserDialogImpl/0.0.3072.1688@0.0.3072.1688" timestamp="1575051562147" />
+    <state width="2090" height="321" key="GridCell.Tab.0.bottom" timestamp="1576762043479">
+      <screen x="0" y="0" width="2133" height="1160" />
+    </state>
+    <state width="2090" height="321" key="GridCell.Tab.0.bottom/0.0.2133.1160@0.0.2133.1160" timestamp="1576762043479" />
+    <state width="1508" height="985" key="GridCell.Tab.0.bottom/0.0.3072.1688@0.0.3072.1688" timestamp="1574881429229" />
+    <state width="2090" height="321" key="GridCell.Tab.0.center" timestamp="1576762043479">
+      <screen x="0" y="0" width="2133" height="1160" />
+    </state>
+    <state width="2090" height="321" key="GridCell.Tab.0.center/0.0.2133.1160@0.0.2133.1160" timestamp="1576762043479" />
+    <state width="1508" height="985" key="GridCell.Tab.0.center/0.0.3072.1688@0.0.3072.1688" timestamp="1574881429229" />
+    <state width="2090" height="321" key="GridCell.Tab.0.left" timestamp="1576762043478">
+      <screen x="0" y="0" width="2133" height="1160" />
+    </state>
+    <state width="2090" height="321" key="GridCell.Tab.0.left/0.0.2133.1160@0.0.2133.1160" timestamp="1576762043478" />
+    <state width="1508" height="985" key="GridCell.Tab.0.left/0.0.3072.1688@0.0.3072.1688" timestamp="1574881429229" />
+    <state width="2090" height="321" key="GridCell.Tab.0.right" timestamp="1576762043479">
+      <screen x="0" y="0" width="2133" height="1160" />
+    </state>
+    <state width="2090" height="321" key="GridCell.Tab.0.right/0.0.2133.1160@0.0.2133.1160" timestamp="1576762043479" />
+    <state width="1508" height="985" key="GridCell.Tab.0.right/0.0.3072.1688@0.0.3072.1688" timestamp="1574881429229" />
+    <state width="205" height="456" key="HiddenNamespacesPopup" timestamp="1575503760201">
+      <screen x="0" y="0" width="2133" height="1160" />
+    </state>
+    <state width="205" height="456" key="HiddenNamespacesPopup/0.0.2133.1160@0.0.2133.1160" timestamp="1575503760201" />
+    <state x="278" y="491" key="SettingsEditor" timestamp="1574812810576">
+      <screen x="0" y="0" width="3072" height="1688" />
+    </state>
+    <state x="278" y="491" key="SettingsEditor/0.0.3072.1688@0.0.3072.1688" timestamp="1574812810576" />
+    <state x="965" y="483" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1573082539283">
+      <screen x="0" y="0" width="2133" height="1160" />
+    </state>
+    <state x="965" y="483" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.2133.1160@0.0.2133.1160" timestamp="1573082539283" />
+    <state x="784" y="222" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1573692149908">
+      <screen x="0" y="0" width="2133" height="1160" />
+    </state>
+    <state x="784" y="222" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.2133.1160@0.0.2133.1160" timestamp="1573692149908" />
+  </component>
+</project>
